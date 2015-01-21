@@ -13,6 +13,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "meteor-core": "git://github.com/eface2face/meteor-core"
+    "meteor-core": "^1.0.0"
   }
 }
