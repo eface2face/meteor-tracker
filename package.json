@@ -1,6 +1,9 @@
 {
   "name": "meteor-tracker",
-  "repository": { "type": "git", "url": "https://github.com/eface2face/meteor-tracker" },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eface2face/meteor-tracker"
+  },
   "version": "1.0.0",
   "description": "",
   "main": "tracker.js",
@@ -8,5 +11,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "meteor-core": "git://github.com/eface2face/meteor-core"
+  }
 }
