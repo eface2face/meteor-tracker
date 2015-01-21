@@ -1,5 +1,6 @@
 {
   "name": "meteor-tracker",
+  "repository": { "type": "git", "url": "https://github.com/eface2face/meteor-tracker" },
   "version": "1.0.0",
   "description": "",
   "main": "tracker.js",
