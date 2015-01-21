@@ -1,5 +1,6 @@
 {
   "name": "meteor-templating",
+  "repository": { "type": "git", "url": "https://github.com/eface2face/meteor-templating" },
   "version": "1.0.0",
   "description": "",
   "main": "templating.js",
