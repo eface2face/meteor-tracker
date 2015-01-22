@@ -4,7 +4,7 @@
     "type": "git",
     "url": "https://github.com/eface2face/meteor-tracker"
   },
-  "version": "1.0.5", 
+ "version": "1.1.0",
   "description": "",
   "main": "tracker.js",
   "scripts": {

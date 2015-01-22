@@ -1,5 +1,5 @@
-var Meteor = require("meteor-core");
-var Tracker;
+module.exports = function(Meteor) {
+  var Tracker;
 //////////////////////////////////////////////////
 // Package docs at http://docs.meteor.com/#tracker //
 //////////////////////////////////////////////////
@@ -510,4 +510,5 @@ Tracker.afterFlush = function (f) {
   afterFlushCallbacks.push(f);
   requireFlush();
 };
-module.exports = Tracker;
+  Meteor.Tracker = Tracker;
+};
